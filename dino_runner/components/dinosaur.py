@@ -1,5 +1,6 @@
 import pygame
 from dino_runner.utils.constants import RUNNING, JUMPING
+from dino_runner.utils.constants import RUNNING, JUMPING, DUCKING
 
 X_POS = 80
 Y_POS = 310
